@@ -1,1 +1,1 @@
-FROM docker:rc-git
+FROM docker:rc-git@sha256:f732e9595694b61b45fa14140df428184c89598c1227bce145d040ab5457f165
